@@ -4,7 +4,7 @@ The file task_data.csv contains an example data set that has been  generated art
 
 Your task is to rank the sensors according to their importance/predictive power with respect to the class labels of the samples.
 
-Pyth script that generates a ranking of the sensors from the provided CSV file.
+Python script that generates a ranking of the sensors from the provided CSV file.
 
 The ranking should be in decreasing order where the first sensor is the most important one.
 
